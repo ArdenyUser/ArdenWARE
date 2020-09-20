@@ -22,11 +22,3 @@ atc- manage air traffic
 ./2048- play 2048
 ssh sshtron.zachlatta.com- play tron
 moon-buggy- play moon buggy
-
--Internet FULL INSTALLION ONLY-
-Use these commands below the browse the web:
-
-links [website address]
-lynx [website address]
-w3m [website address]
-elinks [website address]
